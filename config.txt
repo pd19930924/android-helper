@@ -1,0 +1,7 @@
+icon_format=png
+source_path=source_icon
+hdpi=D:\test\hdpi
+mdpi=D:\test\mdpi
+xhdpi=D:\test\xhdpi
+xxhdpi=D:\test\xxhdpi
+xxxhdpi=D:\test\xxxhdpi
